@@ -1,2 +1,11 @@
 *.xml
 .idea/s4-userManagement-0.iml
+*.css
+bootstrap-3.3.7-dist/css/bootstrap-theme.css.map
+*.map
+bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.eot
+*.svg
+bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.ttf
+*.woff
+bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff2
+*.js
